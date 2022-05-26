@@ -9,7 +9,7 @@ tabela.addEventListener("dblclick", function(event){
         event.target.parentNode.remove();
     },500);
    
-})
+});
 
 // pacientes.forEach(function (paciente) {
 //     paciente.addEventListener("dblclick", function(){
